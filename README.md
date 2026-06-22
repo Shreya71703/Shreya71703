@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Shreya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Shreya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Builder%20of%20Cool%20Things&descAlignY=60&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+at+Scale;Full+Stack+%2B+AI%2FML+Engineer;RAG+%7C+LLMs+%7C+Vector+Databases;Turning+Research+into+Production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=CS+Student+%7C+Lifelong+Learner;Building+AI+Projects+from+Scratch;Turning+Curiosity+into+Code;RAG+%7C+LLMs+%7C+Vector+Databases;One+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,7 +12,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-heisyn--yukti.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://heisyn-yukti.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya71703)
 [![Email](https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreya71703@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shreya71703-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya71703)
@@ -34,13 +33,12 @@
 </div>
 
 ```typescript
-const shreya: SoftwareEngineer = {
-  role:         "Software Engineer · AI/ML Engineer · Full Stack Developer",
+const shreya: CSStudent = {
+  status:       "B.Tech Student — Computer Science & Engineering 🎓",
   location:     "India 🇮🇳",
-  education:    "B.Tech — Computer Science & Engineering",
-  focus:        ["Retrieval-Augmented Generation", "LLM Systems", "Full Stack Engineering"],
-  philosophy:   "Ship production-grade systems. Not demos.",
-  currentlyOn:  "Building AI-powered applications deployed to cloud infrastructure",
+  passions:     ["Artificial Intelligence", "Building Real Projects", "Open Source"],
+  philosophy:   "Learn by building. Ship real things. Break stuff. Repeat.",
+  currentlyOn:  "Exploring AI, shipping projects, and growing one commit at a time",
 };
 ```
 
@@ -417,7 +415,6 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-shreya71703%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreya71703@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya71703)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20%40Shreya71703-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya71703)
-[![Portfolio](https://img.shields.io/badge/Portfolio-heisyn--yukti.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://heisyn-yukti.vercel.app)
 
 </div>
 
@@ -425,7 +422,7 @@ current_focus:
 
 <div align="center">
 
-*"The best engineers don't just write code — they engineer outcomes."*
+*"The expert was once a beginner who refused to quit."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
