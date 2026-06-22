@@ -42,9 +42,7 @@ const shreya: CSStudent = {
 };
 ```
 
-I am a **CS student** with a genuine passion for **AI/ML** and a habit of building real things. I love diving deep into how intelligent systems work — from vector databases and embedding pipelines to full-stack web apps — and then actually shipping them. My projects span **RAG architectures**, **LLM integrations**, **semantic search**, and everything in between.
-
-I learn best by doing. Whether it's writing a FastAPI backend, wiring up a ChromaDB retrieval pipeline, or containerizing an app and deploying it to Hugging Face Spaces — I figure it out, ship it, and keep improving. Still early in the journey, but building fast and learning faster.
+I am a **CS student** with a genuine passion for **AI/ML** and a habit of building real things. I love diving deep into how intelligent systems work from vector databases and embedding pipelines to full-stack web apps and then actually shipping them. My projects span **RAG architectures**, **LLM integrations**, **semantic search**, and everything in between.
 
 <br/>
 
