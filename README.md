@@ -42,13 +42,13 @@ const shreya: CSStudent = {
 };
 ```
 
-I am a software engineer with a strong foundation in **full stack development** and deep expertise in **AI/ML engineering**. I architect and ship end-to-end intelligent systems — from vector databases and embedding pipelines to React frontends and containerized backend APIs. My work spans **RAG architectures**, **LLM integrations**, **semantic search**, and **data-driven product engineering**.
+I am a **CS student** with a genuine passion for **AI/ML** and a habit of building real things. I love diving deep into how intelligent systems work — from vector databases and embedding pipelines to full-stack web apps — and then actually shipping them. My projects span **RAG architectures**, **LLM integrations**, **semantic search**, and everything in between.
 
-I approach software with a product mindset: every system I build is designed for correctness, scalability, and real user impact. I am equally at home writing a FastAPI microservice, designing a ChromaDB retrieval pipeline, or deploying a Dockerized application to Hugging Face Spaces.
+I learn best by doing. Whether it's writing a FastAPI backend, wiring up a ChromaDB retrieval pipeline, or containerizing an app and deploying it to Hugging Face Spaces — I figure it out, ship it, and keep improving. Still early in the journey, but building fast and learning faster.
 
 <br/>
 
-**Open To:** `Full-time SWE Roles` &nbsp;·&nbsp; `AI/ML Engineering Positions` &nbsp;·&nbsp; `Full Stack Engineering` &nbsp;·&nbsp; `Research Collaborations` &nbsp;·&nbsp; `Open Source`
+**Open To:** `Internships` &nbsp;·&nbsp; `Open Source Contributions` &nbsp;·&nbsp; `AI/ML Opportunities`
 
 ---
 
