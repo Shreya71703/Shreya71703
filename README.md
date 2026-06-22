@@ -93,19 +93,7 @@ I am a **CS student** with a genuine passion for **AI/ML** and a habit of buildi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya71703&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6&currStreakNum=A78BFA&sideNums=A78BFA" alt="GitHub Streak"/>
 </div>
 
----
 
-<div align="center">
-
-## ◈ GitHub Trophies
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreya71703&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-</div>
-
----
 
 <div align="center">
 
@@ -121,29 +109,12 @@ I am a **CS student** with a genuine passion for **AI/ML** and a habit of buildi
 
 <div align="center">
 
-## ◈ Contribution Snake
-
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreya71703/Shreya71703/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreya71703/Shreya71703/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Shreya71703/Shreya71703/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
----
-
-<div align="center">
-
 ## ◈ Connect
 
 </div>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-shreya71703%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreya71703@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya71703)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20%40Shreya71703-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya71703)
 
