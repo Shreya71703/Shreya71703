@@ -56,6 +56,24 @@ I am a **CS student** with a genuine passion for **AI/ML** and a habit of buildi
 
 </div>
 
+**AI & Machine Learning**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6366f1?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-orange?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+<br/>
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-blue?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-green?style=for-the-badge)
+
+<br/>
+
 **Languages**
 
 [![Languages](https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css,sql&theme=dark)](https://skillicons.dev)
