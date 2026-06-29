@@ -74,21 +74,17 @@ I am a **CS student** with a genuine passion for **AI/ML** and a habit of buildi
 
 <br/>
 
-**Languages**
+**Core Programming Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css,sql&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,sql&theme=dark)](https://skillicons.dev)
 
-**Frontend**
+**Model Serving & Databases**
 
-[![Frontend](https://skillicons.dev/icons?i=react,vite,vue,tailwind,figma&theme=dark)](https://skillicons.dev)
+[![Backend & DBs](https://skillicons.dev/icons?i=fastapi,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
-**Backend & Databases**
+**DevOps & Tooling**
 
-[![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
-
-**Cloud, DevOps & Tooling**
-
-[![Tooling](https://skillicons.dev/icons?i=docker,git,github,linux,vercel,powershell&theme=dark)](https://skillicons.dev)
+[![Tooling](https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
